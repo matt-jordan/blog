@@ -1,0 +1,44 @@
+---
+title: Why Picking a License Isn't the First Step in Going Open Source
+date: 2014-01-24 11:51:46
+tags:
+    - Open Source
+    - Licensing
+    - Asterisk
+---
+
+I was at a conference in December last year where I was giving a talk on [ARI](https://wiki.asterisk.org/wiki/pages/viewpage.action?pageId=29395573) in [Asterisk 12](https://wiki.asterisk.org/wiki/display/AST/Asterisk+12+Documentation). After my talk, one of the attendees came up, and asked if he could talk to me about running an open source project. I don't consider myself an expert on the subject by any stretch of the imagination - yes, I'm the project lead for [Asterisk](http://www.asterisk.org), but I learn something new about open source every day! But, being daring, I said yes. His question was approximately thus:
+
+"Once upon a time, I wrote a tool that I sold for a small amount of money to a large number of companies, some of whom are rather large. Over the past many years, I've re-written said tool such that it's a full on project, and I've realized that to get it done and available, there are a number of things I could use help with. I'd like to take it open source so that I can finally get this software out there. What open source license should I pick?"
+
+I have to admit that I had a quick, off-the-cuff reply: "don't pick the GPL". This certainly surprised him - Asterisk, after all, is dual licensed under the GPLv2, such that Digium can choose to commercially license Asterisk. Our business model certainly benefits from this licensing model. He was, in fact, seriously considering GPLv2 for his project as well - specifically because he wanted to dual license his project. It was, I admitted immediately to him, a glib answer, but one that stemmed from my experience over the past couple of years dealing with the GPL. While a popular and powerful license, the dual licensing aspect is tricky: you have to have a good understanding of what can and cannot be used with a GPL licensed application. This can get particularly sticky when you consider all of the various software distribution models that are out there, some of which were not as prevalent when the GPL was written. While licensing your project under the GPL requires a good amount of knowledge, providing a commercial license compounds this; you now have to manage exceptions to the GPL, which has both public perception issues as well as real legal issues. None of this is fun (at least, I don't find it fun), and it certainly would be a lot of work for him. But I realized I spoke too quickly, because there was a much more fundamental issue at play here: what, exactly did he want to do with his project?
+
+In other words: what is his motivation in open sourcing his project?
+
+I'm going to start with the assumption that this is not a moral question. If it is a moral question, then everything that follows here is moot. If you morally feel that all software should be free - as in libre - then there is no question, no dilemma. You open source the bloody thing: in fact, it should have been free when you started! But I assumed that this wasn't his case - because if so, than the answer of which license you pick is more of a personal preference (although I'm sure some morally inclined people would disagree; it's still easier than where I'm going with this next).
+
+If his goal was to have people use his software, then open sourcing his project makes sense - and it's fine to discuss which license to pick.
+
+If his goal is to make money, then open sourcing his project at this time is crazy.
+
+Why is that?
+
+It is not easy to make money on open source software. Yes, lots of companies do it: Red Hat, Digium (yay!), Canonical, etc. However, if you look closely at companies that make money on open source software - producing it, not just using it - you'll find that they rely on more than open source. They have some other mechanism to generate revenue:
+
+* Many companies have something that is not free - both in the libre and the beer sense. Think licensing costs, commercial add-on modules which are neither open or free, etc. If your product is software, you want to find some way to monetize that software. While most open source licenses don't care if you charge for your software, the end result is that unless you restrict your software in some fashion or provide some added value outside of the open source software, you won't make any money off your software. You have to hold something back or restrict the software in some way in order to generate revenue strictly from your software.
+
+* Paid support and/or training on the software. However, as a primary means for a business model, this is not a recipe for large-scale success. This is for two reasons: (1) it does not scale. You may make money yourself by providing support for your software, but as the popularity grows, you will lose ground. There's only one of you, and the support you provide will eat into your actual development effort. This can, ironically, cause your project to lose popularity. If you find someone to help you, you can hire them; but, assuming they are equally as smart and talented and dedicated as you, you've only prolonged the problem. You can't hire every customer to support your project. (2) Relying only on support implies your software is impenetrable, difficult, and buggy. As you fix that, people will no longer need to pay you (or pay you as much) for support. The more your software matures, the less necessary you are. That is a good thing, but it does undermine this business model.
+
+* Providing said software as a service, if the project allows for it. However, this may not be enough, as it is difficult to maintain a competitive edge unless the software is substantially complex. If you build a service on top of open source software, someone else will build one too. And another one. And the race to zero begins. Since all modifications have to be made and distributed freely (although SaaS has circumvented many of the older licenses, much to the consternation of the FSF), there is little competitive advantage from one service provider to another (unless, of course, you don't have to distribute your changes: but that's hardly open and libre). Note that some open source licenses are much more permissive than the FSF licenses in this regard however - but creating services from your software has a high cost associated with it as well (infrastructure isn't free). It is, however, one of the more attractive business models: witness Rackspace, hosted VoIP providers, etc.
+
+* Sell hardware. However, hardware, in general, is not a growth market. This also has a prohibitively high infrastructure/startup cost, which makes it even less palatable.
+
+There are pro's and con's to any mechanism used to make money off of open source software. Regardless, the long and short of it is: you need a business plan. In fact, if your primary product is open source software, you need an even more solid business plan than your average software company. And you definitely need a business plan before you choose how to license your software, if you want to make a living from your project.
+
+Do you have a complex project with a targeted niche where your expertise will be required? GPL may be appropriate. Are you planning on using your project as part of a larger whole? A more permissive license may be fine. But all of these are subject to the much more important question of: how do you want to make your money. Because once you ring the bell on the license, you're going to be stuck with that business plan, and it is very hard to change it.
+
+All of this only matters if you want to make money from your project. That is not the only reason to write software. For developers, it often isn't even the most important one - and if what you want is to see your work get used, then by all means - license however you feel best to you. Permissive licenses will get your software used the most and the fastest; but there's something to be said for protecting the freedom of your software as well.
+
+But always know your motivations before you release your software. Otherwise, you may end up with a lot of unnecessary regrets.
+
+As an epilogue to this whole post: the individual wanted to make money. He was sure that since he made a little bit of money with the tool, that he'd make a lot with the project - and he viewed open sourcing it as a way of getting free help. There's a whole host of problems with viewing open source development in that light as well - not the least of which is that you don't control what your open source contributors work on. I'm not sure he appreciated the sentiment of needing a concrete business plan either; we in the programming/engineering field often don't like to think through such things. Still, I wished him the best of luck - he has a tough road ahead.
