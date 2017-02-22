@@ -1,0 +1,8 @@
+<div class="mn1 center">
+	<% for (var i in theme.menu){ %>
+		<a href="<%- url_for(theme.menu[i]) %>" class="btn button-narrow"><%= i %></a>
+	<% } %>
+	<a href="<%= url_for('search.html') %>" class="btn button-narrow" onclick="loadJQuery(this, event);" data-modal>
+		<svg class="icon" data-icon="search"></svg>
+	</a>
+</div>

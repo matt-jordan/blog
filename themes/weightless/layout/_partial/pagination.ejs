@@ -1,0 +1,45 @@
+<div class="clearfix">
+	<% if (page.prev){ %>
+	<a href="<%- base %><%= (page.current > 2 ? (config.pagination_dir + '/' + (page.current - 1) + '/') : '') %>" class="left btn button-narrow">
+    	<svg class="icon" data-icon="chevron-left"></svg>
+    	<%= __('prev') %>
+	</a>
+	<% } %>
+	<% if (page.next){ %>
+	<a href="<%- base + config.pagination_dir %>/<%= page.current + 1 %>/" class="right btn button-narrow">
+		<%= __('next') %>
+		<svg class="icon" data-icon="chevron-right"></svg>
+	</a>
+	<% } %>
+	<div class="overflow-hidden sm-show center">
+		<% if (page.current - p != 1) { %>
+			<a href="<%- base %>" class="btn<%- (page.current == 1 ? ' btn-primary bg-gray' : '') %>">1</a>
+		<% } %>
+		<% if (page.current - show > show) { %>
+			<span class="btn">...</span>
+		<% } %>
+		<% for (var p = show; p > 0; p--) { %>
+			<% if(page.current - p > 0) { %>
+				<% if (page.current - p != 1) { %>
+					<a href="<%- base + config.pagination_dir %>/<%= page.current - p %>/" class="btn"><%= page.current - p %></a>
+				<% } %>
+			<% } %>
+		<% } %>
+		<% if (page.current - p != 1) { %>
+			<span class="btn btn-primary bg-gray"><%= page.current %></span>
+		<% } %>
+		<% for (var p = 1; p < show + 1; p++) { %>
+			<% if(page.current + p < page.total) { %>
+				<a href="<%- base + config.pagination_dir %>/<%= page.current + p %>/" class="btn"><%= page.current + p %></a>
+			<% } %>
+		<% } %>
+
+		<% if (page.total - page.current > show + 1) { %>
+			<span class="btn">...</span>
+		<% } %>
+
+		<% if (page.current != page.total) { %>
+			<a href="<%- base + config.pagination_dir%>/<%= page.total %>/" class="btn"><%= page.total %></a>
+		<% } %>
+	</div>
+</div>
