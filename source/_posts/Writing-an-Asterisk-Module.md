@@ -48,14 +48,14 @@ For now, let's just get something that will load. We'll add interesting stuff la
 2. Include the main asterisk header file. This pulls in the build options from the configure script, throws in some forward declarations for common items, and gives us the ability to register the version of this file. Immediately after this, we should go ahead and add the call that will register the file version, using the macro `ASTERISK_FILE_VERSION`:
 ```
 #include "asterisk.h"
-
+    
 ASTERISK_FILE_VERSION(__FILE__, "$Revision: $")
 ```
 
 3. While we're here, after the `ASTERISK_FILE_VERSION`, let's include the header `module.h`. That header contains the definition for the module struct with its handy virtual table of load/unload/reload functions.
 ```
 ASTERISK_FILE_VERSION(__FILE__, "$Revision: $")
-
+    
 #include "asterisk/module.h"
 ```
 
@@ -74,12 +74,12 @@ AST_MODULE_INFO_STANDARD(ASTERISK_GPL_KEY, "Sample module");
 ```
 static int unload_module(void)
 {
-
+    
 }
 
 static int load_module(void)
 {
-
+    
 }
 ```
 
@@ -107,23 +107,23 @@ The whole module would look something like this:
 /*** MODULEINFO
     <support_level>extended</support_level>
 ***/
-
+    
 #include "asterisk.h"
-
+    
 ASTERISK_FILE_VERSION(__FILE__, "$Revision: $")
-
+    
 #include "asterisk/module.h"
-
+     
 static int unload_module(void)
 {
     return 0;
 }
-
+    
 static int load_module(void)
 {
     return AST_MODULE_LOAD_SUCCESS;
 }
-
+    
 AST_MODULE_INFO_STANDARD(ASTERISK_GPL_KEY, "Sample module");
 ```
 
