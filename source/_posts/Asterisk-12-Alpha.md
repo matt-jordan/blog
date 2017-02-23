@@ -3,6 +3,8 @@ title: Asterisk 12 Alpha
 date: 2013-09-02 06:31:15
 tags:
     - Asterisk
+    - Asterisk 12
+    - Open Source
 ---
 
 Last Friday (August 30th), we released [Asterisk 12.0.0-alpha1](http://downloads.asterisk.org/pub/telephony/asterisk/releases/asterisk-12.0.0-alpha1.tar.gz).

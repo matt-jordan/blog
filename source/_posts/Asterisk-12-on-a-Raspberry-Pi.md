@@ -3,6 +3,8 @@ title: Asterisk 12 on a Raspberry Pi
 date: 2013-09-02 07:06:26
 tags:
     - Asterisk
+    - Asterisk 12
+    - Tutorial
 ---
 
 So, like a lot of people, as soon as I could I got my hands on a Raspberry Pi (I got mine from [Adafruit](https://www.adafruit.com/) and was very happy with the experience). If you don't know what a Raspberry Pi is, it's the greatest thing since sliced bread - a small single board computer that runs Linux for only thirty-five bucks. Along with a case, a good power supply, and a few other odds and ends, it's still a steal, coming in somewhere under seventy-five bucks. They're ridiculously flexible. They can be used for a whole host of microcontroller projects, but are also powerful enough to act as mini home "servers". For awhile now, I've planned to set mine up as a home Asterisk system. In particular, my poor wife - who happens to work from home - has had to make do without much in the way of good business communications (there's a story in there somewhere about a cobbler and his kids not having any shoes). Unfortunately, just about every waking moment for the past six months has been spent on getting Asterisk 12 developed and released, so my poor Pi has sat on a desk collecting dust.
