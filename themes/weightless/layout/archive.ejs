@@ -9,19 +9,34 @@ site.posts.forEach(function(item, index) {
 		'title': item.title,
 		'path': item.path,
 		'date': item.date
-	})
+	});
 });
 %>
+
 <div class="mt2 mb2">
 	<span class="btn button-narrow">Archives</span>
 	<svg class="icon gray" data-icon="chevron-right"></svg>
 	<span class="btn button-narrow"><%= site.posts.length %> posts</span>
 </div>
 <div class="mt2 mb2">
-	<% posts.forEach(function(single, year) { %>
+	<% posts.reverse().forEach(function(single, year) { %>
 		<div class="col-12 bg-white rounded mb4">
-			<span class="btn block border-bottom muted"><%- year %> <span class="h6 muted">(<%- posts[year].length %>)</span></span>
+			<span class="btn block border-bottom muted"><%- date(single[0].date, 'YYYY') %> <span class="h6 muted">(<%- posts[year].length %>)</span></span>
 			<% var length = single.length;
+
+            single.sort(function (a, b) {
+                if (a.date.isBefore(b.date)) {
+                    return -1;
+                }
+
+                if (a.date.isAfter(b.date)) {
+                    return 1;
+                }
+
+                return 0;
+            });
+
+            single.reverse();
 			single.forEach(function(item, index) { %>
 			<a href="<%- url_for(item.path) %>" class="btn block<%- (index != length - 1 ? ' border-bottom' : '') %>"><%- item.title %>
 				<span class="h6 muted black">
