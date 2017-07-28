@@ -15,5 +15,4 @@ Rather than using a heavy weight blogging platform again, I've instead decided t
 
 3. Connecting and deploying the site is trivial using [Netlify](https://www.netlify.com/).
 
-So. Hello World. Again. More posts to come.
-
+Posts will be sporadic, as per usual.
