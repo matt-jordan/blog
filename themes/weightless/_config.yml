@@ -3,6 +3,10 @@ menu:
   Archives: archives/
   Tags: tags/
 
+social:
+  twitter: 'https://twitter.com/mattcjordan'
+  linkedin: 'https://www.linkedin.com/in/matt-jordan-99aa184/'
+
 # piwik_analytics:
 #    domain: communistanalytics.com
 #    siteId: 1
