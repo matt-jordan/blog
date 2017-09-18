@@ -1,11 +1,11 @@
 ---
-title: Hello World
+title: Blog Re-Rebuild
 date: 2017-02-21 21:27:35
 tags:
  - Intro
 ---
 
-Or rather, Hello World, again. Over the next few days I'm going to pull in some of my posts from my old WordPress site.
+This is the second - or maybe third? - time I've rebuilt this blog. Over the next few days I'm going to pull in some of my posts from my old WordPress site.
 
 Rather than using a heavy weight blogging platform again, I've instead decided to go with [Hexo](https://hexo.io), a static site generator. Why?
 
