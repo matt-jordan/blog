@@ -7,7 +7,7 @@ date: 2017-09-18 13:30:29
 ---
 
 
-This week was the substantive week of marathon training. Prior to this week, I had built up to running five days a week:
+This week was the first substantive week of marathon training. Prior to this week, I had built up to running five days a week:
 * A 'fast-ish' day of running, where I would attempt to run most of the run at approximate marathon pace.
 * 4 to 5 miles of hills, generally running 2 to 2.5 up Monte Sano and back down
 * (Rest)
@@ -15,7 +15,10 @@ This week was the substantive week of marathon training. Prior to this week, I h
 * 5 mile easy run day
 * Long run day, generally between 10 and 15 miles
 
-There's nothing necessarily wrong with this, as it incorporates some temp runs, hill work (strength training), and two long-ish running days. The downside is the lack of structure - looking at my runs, I've been running a bit too fast in most places, and my volume still probably isn't enough. 
+There's nothing necessarily wrong with this, as it incorporates some tempo like runs, hill work (strength training), and two long-ish running days. The downsides are:
+* Something of a lack of science to my method. I came up with the plan by incorporating elements of my previous marathon attempts (which haven't gone well) and a lot of reading about various methods, including Hanson and Pfitzinger. That's probably not a smart idea.
+* Pacing. Looking at my run results, I've been running a bit too fast in most places.
+* For the longest distance I'm currently doing, my volume still probably isn't enough. 
 
 Enter the [Hanson Marathon Method](https://www.amazon.com/Hansons-Marathon-Method-Your-Fastest/dp/1937715485).
 
@@ -23,13 +26,13 @@ I explained in my [previous post](https://www.matthewjordan.net/2017/09/18/marat
 
 ## Monday - Speed Work (12x400m repeats)
 
-I moved the speed work up from Tuesday, it's regularly scheduled day, to Monday as I had an early morning meeting Tuesday and hadn't run on Sunday, thereby avoiding the "no back-to-back SOS workouts" rule. That weekend I purchased a pair of [Nike Zoom Fly](https://store.nike.com/us/en_us/pd/zoom-fly-mens-running-shoe/pid-11828000/pgid-11588986) shoes from our local [Fleet Feet](http://www.fleetfeethuntsville.com/) store, and I was pretty excited to try them out. Due to being a Linux user, I've had some trouble with the Garmin Connect app pushing workouts down to my watch, so I decided to do my run at a local high school track, which conveniently was within a 1 mile warmup run from my house.
+I moved the speed work up from Tuesday, it's regularly scheduled day, to Monday as I had an early morning meeting Tuesday and hadn't run on Sunday, thereby avoiding the "no back-to-back SOS workouts" rule. That weekend I purchased a pair of [Nike Zoom Fly](https://store.nike.com/us/en_us/pd/zoom-fly-mens-running-shoe/pid-11828000/pgid-11588986) shoes from our local [Fleet Feet](http://www.fleetfeethuntsville.com/) store, and I was pretty excited to try them out. Due to being a Linux user, I've had some trouble with the Garmin Connect app pushing workouts down to my watch, so I decided to do my run at a local high school track, which conveniently was within a 1.5 mile-ish warm up run from my house.
 
 The plan was:
-* 9:40 min/mile warm-up/cool-down
+* 9:40 min/mile warm up/cool down
 * 7:50 min/mile 400m sprints with 11:00 min/mile 400m recover laps
 
-This being my first set of speed work, I think I did relatively well. The splits aren't exactly the best, as I found I'd usually rocket off to a too fast start on each 400m interval and have to throttle it back to get to the right pace. This led to most of my 400m repeats being run too fast. My recovery intervals were worse, and I eventually just decided to try and go no faster than a 10:20 min/mile. Next week I should have the workout push to the watch, and the beeps/buzzing of the Garmin should keep me in line better.
+This being my first set of speed work, I think I did relatively well. The splits aren't exactly the best, as I found I'd usually rocket off to a too fast start on each 400m interval and have to throttle it back to get to the right pace. This led to most of my 400m repeats being run too fast. My recovery intervals were worse, and I eventually just decided to try and go no faster than a 10:20 min/mile. Next week I should have the workout pushed to the watch, and the beeps/buzzing of the Garmin should keep me in line better.
 
 | Type | Distance (miles) | Pace (min/mile) | Time (min) | Total (miles) |
 | --- | ---:| ---:| ---:| ---:|
@@ -63,7 +66,7 @@ This being my first set of speed work, I think I did relatively well. The splits
 | Cool Down | 0.61 | 9:25 | 1:24:39 | 9.24 |
 | **Totals** | | | **1:24:39** | **9.24** |
 
-**After writing all of this down, I am still running way too fast. Drat.**
+*After writing all of this down, I realize I am still running way too fast. Drat.*
 
 ## Tuesday - Easy Run (5 miles)
 
@@ -71,7 +74,7 @@ At this point, I had managed to get my workouts downloaded to my watch, which ma
 
 {% asset_img Big_Spring_Park_overlook.jpg https://upload.wikimedia.org/wikipedia/en/b/b7/Big_Spring_Park_overlook.jpg %}
 
-While I run this route a lot, the fact that it goes through some nice neighboorhoods and downtown makes it a favorite. It certainly beats running alongside interstate access roads, or down a four line highway - both of which are some of my other options.
+While I run this route a lot, the fact that it goes through some nice neighboorhoods and downtown makes it a favorite. It certainly beats running alongside interstate access roads or down a four line thoroughfare, both of which are some of my other options.
 
 | Type | Distance (miles) | Pace (min/mile) | Total (min) | Total (miles) |
 | --- | ---:| ---:| ---:| ---:|
@@ -84,13 +87,13 @@ While I run this route a lot, the fact that it goes through some nice neighboorh
 
 ## Wednesday - Crosstrain
 
-I've chosen to do some strength training at a local gym for my crosstraining. I find that keeping my upper body in "okay-ish" shape helps with long runs. Without it, after about 10 miles I usually end up with some ice-pick like pain jabbing between my shoulder blades. I may write someday what this routine looks like; suffice to stay it takes about 60 minutes and isn't liable to turn me into He-Man any time soon.
+I've chosen to do some strength training at a local gym for my crosstraining. I find that keeping my upper body in "okay-ish" shape helps with long runs. Without it, after about 10 miles I usually end up with some ice-pick like pain jabbing between my shoulder blades. I may write someday what this routine looks like; suffice to say it takes about 60 minutes and isn't liable to turn me into He-Man any time soon.
 
 ## Thursday - Tempo (5 miles)
 
-I've read a lot about the dreaded temp runs. Up until now, other than a few ill advised "push it" moments, I've stayed above the 9:00 min/mile mark. If I'm going to get a 3:45 marathon time, however, I have to be able to hit and hold a 8:30 min/mile pace. That feels ambitious, but not out of reach. Since my runs are now starting to include some warm up/cool down times, I decided to add those to all of my workouts and push that to my watch as well.
+I've read a lot about the dreaded tempo runs. Up until now, other than a few ill advised "push it" moments, I've usually stayed above the 9:00 min/mile mark. If I'm going to get a 3:45 marathon time, however, I have to be able to hit and hold a 8:30 min/mile pace. That feels ambitious, but not out of reach. Since my runs are now starting to include some warm up/cool down times, I decided to add those to all of my workouts and push that to my watch as well.
 
-When Thursday dawned, my legs felt tired. I suspect this was the after effects of having run my speed work a bit faster than I should have, combined with the start of my "cumulative fatigue". I'm not looking forward to how this feels in two months, as I suspect I'm not really getting much of a taste for what comes.
+When Thursday dawned, my legs felt tired. I suspect this was the after effects of having run my speed work a bit faster than I should have, combined with the start of my "cumulative fatigue". Or it's too early and I'm just imagining how I'm going to be feeling. Anyway.
 
 | Type | Distance (miles) | Pace (min/mile) | Total (min) | Total (miles) |
 | --- | ---:| ---:| ---:| ---:|
@@ -105,7 +108,7 @@ When Thursday dawned, my legs felt tired. I suspect this was the after effects o
 
 Two things I learned from this run:
 1. I kind of messed up my tempo run slightly, as I had set my goal tempo pace to 8:35 as opposed to 8:30. Rather than suffer five miles of beeping and buzzing, I just went with it. I'll fix it up for the tempo run next week.
-2. That last mile of the temp run was brutal. I had to keep on mentally telling myself "one more mile, you're good; one more mile, you're good". And by mentally, I mean I was muttering that out loud through some slightly random neighboorhood. I'm not worried that I won't be able to do another 5 mile tempo run next week; I am worried about week 9 when I go from a 5 mile tempo run to an 8 mile tempo run. That's a huge leap. I may try to gradually increase this over the next two weeks just to even out the pain a bit.
+2. That last mile at tempo pace was no bueno. I had to keep on mentally telling myself "one more mile, you're good; one more mile, you're good". And by mentally, I mean I was muttering that out loud through some slightly random neighboorhood. I'm not worried that I won't be able to do another 5 mile tempo run next week; I am worried about week 9 when I go from a 5 mile tempo run to an 8 mile tempo run. That's a huge leap. I may try to gradually increase this over the next two weeks just to even out the pain a bit.
 
 ## Friday - Easy (5 miles)
 
@@ -126,7 +129,7 @@ Note that I'm including my small-ish warm up/cool down routines for easy runs no
 
 ## Saturday - Easy (6 miles)
 
-Saturday morning I felt a bit more tired than on Friday morning. That didn't surprise me; I usually feel the worst after effects of a strenuous exercise two days later. I was a bit concerned, as I had volunteered to do parking at the [Monte Sano Art Show](http://www.artshuntsville.org/monte-sano-art-festival/) all day that day, and knew I was going to be on my feet for around 8 hours at least. I decided to shoot for anything over a 10:00 min/mile pace. I still wanted to finish up in about an hour, as I had to be up in the state park by 8:00 AM or so to start my volunteer duties.
+Saturday morning I felt a bit more tired than on Friday morning. That didn't surprise me; I usually feel the worst after effects of a strenuous exercise two days later. I was a bit concerned, as I had volunteered to do parking at the [Monte Sano Art Show](http://www.artshuntsville.org/monte-sano-art-festival/) all day that day, and I knew I was going to be on my feet for around 8 hours at least. I decided to shoot for anything over a 10:00 min/mile pace. I still wanted to finish up in about an hour, as I had to be up in the state park by 8:00 AM or so to start my volunteer duties.
 
 | Type | Distance (miles) | Pace (min/mile) | Total (min) | Total (miles) |
 | --- | ---:| ---:| ---:| ---:|
