@@ -8,7 +8,7 @@ tags:
 
 I wrote a rather lengthy blog post for the [Asterisk Blog](http://blogs.asterisk.org/2017/09/27/rtp-security-vulnerabilities/) about the recent RTP related security vulnerabilities in Asterisk. I won't go into more detail here than I did there, but given that there was a public disclosure of flaws in the first security release that occurred without warning to the project team, things were not as smooth as we would have liked.
 
-The whole thing does get you wondering a bit about what's going on in the world of vulnerability research. There's always been a bit of an air of rebellion around those who find vulnerabilities, even the white hats. The reality is, to find these kinds of vulnerabilities, you have to build tools and perform actions that in a non-controlled environment would clearly be malicious. That's not bad in and of itself; what you do with those tools and the information you gain from them determines your ethical bent.
+To find vulnerabilities, you have to build tools and perform actions that in a non-controlled environment would clearly be malicious. That's not bad in and of itself; what you do with those tools and the information you gain from them determines your ethical bent.
 
 If you look at some of the major vulnerabilities, you can see that things have gone a bit "commercial". Vulnerabilities now get [names](https://blogs.akamai.com/2012/05/what-you-need-to-know-about-beast.html), [marketing sites](http://heartbleed.com/), hell - even [stickers](https://www.redbubble.com/shop/heartbleed+bug+stickers). The researchers who found the RTP vulnerability in Asterisk quickly piggy-backed on this, dubbing the vulnerability ["RTPBleed"](https://rtpbleed.com/).
 
