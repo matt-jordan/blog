@@ -1,6 +1,6 @@
 ---
 title: 'Hanson Beginner Marathon Training: Week 8'
-date: 2017-09-28 10:12:26
+date: 2017-10-01 10:12:26
 tags:
     - Running
     - Marathon Training
