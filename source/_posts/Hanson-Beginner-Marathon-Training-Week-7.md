@@ -38,3 +38,10 @@ Both the easy runs were easy, which is what they should be. The first was done a
 This was supposed to be a 10 mile long run, but I bumped this up to 12 miles based on my previous long runs. Things held together shockingly well until about the last three miles, at which point I started to feel my knees. Concerned, I tried to compensate by engaging my quads more consciously, which seemed to work. I never had a knee twinge during the long run, but things were a bit more sore in the knees than I'd like afterward. Maybe bumping the mileage on the long run wasn't a good idea? I'm not sure. On the one hand, increasing mileage too much and running too fast/hard is how you injure yourself. On the other hand, that giant bump in two weeks scares the willies out of me, and this really was just a 3 mile bump over the previous week.
 
 A larger concern for me after this long run is a hike I had planned at the Walls of Jericho tomorrow. I've never been there before, and I've heard rumors that the hike out is long and uphill. I'm going to push my Monday easy run to Wednesday, moving my "off day" to Monday and count the hike as "cross-training". This is probably a bad idea, but I've been wanting to do this hike for the better part of a decade, and taking advantage of a free group hike is probably the only time I'd get to do it. So... here's hoping my knees withstand a couple hours of downhill/uphill hiking.
+
+## Totals
+
+Distance: 44.53 miles
+Time: 7:01:06
+Calories: 6782
+F-Bombs: > 10
