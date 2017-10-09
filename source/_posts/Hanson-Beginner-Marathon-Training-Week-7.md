@@ -41,7 +41,7 @@ A larger concern for me after this long run is a hike I had planned at the Walls
 
 ## Totals
 
-Distance: 44.53 miles
-Time: 7:01:06
+Distance: 45.29 miles
+Time: 8:07:24
 Calories: 6782
 F-Bombs: > 10
