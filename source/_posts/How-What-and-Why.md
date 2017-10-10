@@ -27,7 +27,7 @@ As an engineer, we start with the How. In fact, we're kind of obsessed with it:
 
 Which, of course, makes sense. Being an *engineer* is all about building something; if you do a crappy job of that, you're not going to be a good engineer. And there's a lot of good in honing your craft, becoming really, *really* good at software implementation. My favorite programming book is still [Code Complete](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/ref=pd_lpo_sbs_14_t_2?_encoding=UTF8&psc=1&refRID=HFTTPKASK9A0NG5S5QVW&dpID=515iO%252B-PRUL&preST=_SX258_BO1,204,203,200_QL70_&dpSrc=detail), and for good reason.
 
-At some point, you're very likely to be working a software project when suddenly the project manager starts ratcheting up the pressure. Maybe a deadline slipped, maybe there was no deadline but stakeholders are starting to get frustrated with the lack of a delivery. Maybe the software that was delivered didn't contain nearly everything they thought they would get.
+At some point, you're very likely to be working on a software project when suddenly the project manager starts ratcheting up the pressure. Maybe a deadline slipped. Maybe there was no deadline but stakeholders are starting to get frustrated with the lack of a delivery. Maybe the software that was delivered didn't contain nearly everything they thought they would get.
 
 And that leads us to the next question.
 
@@ -39,13 +39,15 @@ Time is the only finite resource. Every second of every day is a second you're n
 
 But I *prioritized* writing this (for some reason or another. Humans are strange). And that prioritization is immensely important in software.
 
-A software project never really ends until the business producing it decides to stop selling it; even then, it can live on in some form. There will always be new bugs, features, improvements, refactorings, and more. The order in which you do things in **greatly** determines the likelihood of your project success. Prioritization, more so than time estimates, requirements analysis, or anything else in the project management camp determines success or failure.
+A software project never really ends until the business producing it decides to stop selling it; even then, it can live on in some form. There will always be new bugs, features, improvements, refactorings, and more. The work to be done will always exceed the resources available. The order in which you do things thus **greatly** determines the likelihood of project success. Prioritization, more so than time estimates, requirements analysis, or anything else in the project management sphere of control determines the life or death of a software project.
 
 As an engineer, you should care about this. No one cares how well you crafted a new feature *if it wasn't that important.* And having your work be devalued sucks.
 
-So let's say we've got prioritization taken care of. We're building the right things in the right order. Great.
+So let's say we've got prioritization taken care of. We have a well groomed backlog, so we're presumably building the right things in the right order. Great.
 
-And then it gets time to launch, and you're told that no one wants your software. The business doesn't know how to sell it, or it can't make sufficient profit given the cost of customer acquisition. The business doesn't understand the sales model. Maybe the software doesn't really solve a problem a customer is willing to pay for. Maybe the business thought they knew what the customer wanted, and no one really actually confirmed it. *Or maybe there never was a customer.*
+And then it gets time to launch, and you're told that no one wants your software. The business doesn't know how to sell it, or the business folks have realized that we can't make sufficient money given the cost of customer acquisition. Perhaps the business doesn't understand the sales model. Maybe the software doesn't really solve a problem a customer is willing to pay for. Maybe the business thought they knew what the customer wanted, and no one actually confirmed it.
+
+*Or maybe there never was a customer.*
 
 When this happens, you'll feel burned. And that leads us to the next question.
 
@@ -54,16 +56,18 @@ When this happens, you'll feel burned. And that leads us to the next question.
 Why are we building this thing at all?
 
 That is:
-- What problem are we solving.
-- Is this a problem that we can charge money for.
-- Does the customer who has this problem want to pay for a solution.
+- What problem are we solving?
+- Is this a problem that we can charge money for?
+- Does the customer who has this problem want to pay for a solution?
 - How do we find these customers?
 - How do we differentiate in the market?
 - Can we survive as a business selling this?
 
 Again: **time is the most valuable resource.** It's one thing to save time by prioritizing your backlog, it's another to make sure that you have the right backlog in the first place.
 
-Some may argue that others get to make these decisions, and so an engineer doesn't really need to know the Why or the What. "Focus on the How and stay in your lane." And if you're content with having your life be wasted, you can do that. But great engineers don't want to waste their lives building things that don't matter, and their voice matters in the process. A great engineer will help the business course correct throughout the life of a project, and make sure that the business's resources are being allocated and spent in the best manner possible.
+Some may argue that others get to make these decisions, and so an engineer doesn't really need to know the Why or the What. "Focus on the How and stay in your lane." And if you're content with having your life wasted, you can do that. But great engineers don't want to waste their lives building things that don't matter. A great engineer will help the business course correct throughout the life of a project and make sure that the business's resources are being allocated and spent in the best manner possible. A great engineer will have a valid opinion and a pertinent voice in the decision making process of *why are we building this thing.*
+
+## tl;dr
 
 A novice engineer cares about the How. A good engineer cares about the What. A great engineer understands the Why.
 
