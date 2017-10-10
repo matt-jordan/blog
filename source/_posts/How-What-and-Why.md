@@ -67,7 +67,9 @@ Again: **time is the most valuable resource.** It's one thing to save time by pr
 
 Some may argue that others get to make these decisions, and so an engineer doesn't really need to know the Why or the What. "Focus on the How and stay in your lane." And if you're content with having your life wasted, you can do that. But great engineers don't want to waste their lives building things that don't matter. A great engineer will help the business course correct throughout the life of a project and make sure that the business's resources are being allocated and spent in the best manner possible. A great engineer will have a valid opinion and a pertinent voice in the decision making process of *why are we building this thing.*
 
-## tl;dr
+**A novice engineer cares about the How.**
 
-A novice engineer cares about the How. A good engineer cares about the What. A great engineer understands the Why.
+**A good engineer focuses on the What.**
+
+**A great engineer understands the Why.**
 
