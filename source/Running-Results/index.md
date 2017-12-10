@@ -12,12 +12,13 @@ date: 2017-09-19 20:10:11
 | 15k | Monte Sano 15k | 2010 | 1:27:40 |
 | Half Marathon | Huntsville Half Marathon | 2011 | 1:43:20 |
 | 25k (Trails) | McKay Hollow Madness | 2016 | 3:43:22 |
-| Marathon | Rocket City Marathon | 2011 | 4:09:27 |
+| Marathon | Rocket City Marathon | 2017 | 3:36:09 |
 
 # Race Results
 
 | Race | Distance (miles) | Year | Age | Place | Age Group Place | Time | Pace |
 | ---- | -------- | ---- | --- | ----- | --------------- | ---- | ---- |
+| Rocket City Marathon | 26.2 | 2017 | 36 | 180 | 25/79 | 3:36:09 | 8:15 |
 | McKay Hollow Madness 25k | 15.53 | 2016 | 34 | 116 | - | 3:43:22 | 14:18
 | Huntsville Half Marathon | 13.1 | 2015 | 33 | 87 | 9/23 | 1:45:00 | 8:01 |
 | Monte Sano 10k | 6.2 | 2015 | 33 | 87 | 9/23 | 52:59 | 8:32 |
