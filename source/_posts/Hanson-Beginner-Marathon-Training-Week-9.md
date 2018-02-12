@@ -32,13 +32,19 @@ The alarm went off at 6-ish. Groggy, I got myself up, out, and going.
 
 As I got going, I noticed that it smelled a bit. Kind of sulfurish. I probably shouldn't have been surprised; Florida is kind of one big swamp. It was also hot and humid. Knew that the route was mostly a big square, figured I'd run to one of the far 'corners' and turn around. Out and back. Went fine until I saw the hill. WTF?
 
-Sucking wind hard on the last interval, but did it. FU Floridia. You stink, literally.
+{% asset_img speedwork_hill.png %}
+
+That's a 100 ft. elevation change, and it goes up a lot faster than the chart shows. By the time I hit the last interval I was sucking wind, and sucking wind hard, but I did it.
+
+FU Floridia. You stink, literally.
 
 ## Wednesday (6 miles easy)
 
-Ran with a group. Don't usually do that, enjoyable. Can see this would be a bit weird on a tempo day or other substance day, but easy days are great for group running. Had to remind them to slow down a bit, no faster than 9:40-ish please.
+On Wednesday I woke up and ran with a group of fellow AstriCon attendees - one a coworker who was also training for the marathon, and another who is a longtime Asterisk community member and all around great guy. He was training for his first marathon, so the two of us who had done the insanity before had a nice chat with him as we ran the same route I had the day before.
 
-9:50 min/mile.
+I don't usually run with groups, but when you're running with good people, it's quite enjoyable. Good conversation when needed, quiet when we're all heading up that silly hill. I can see this would be a bit weird on a tempo day or other substance day, but easy days are great for group running. I did have to them to slow down a bit, no faster than 9:40-ish for me please. Luckily, both of them were will willing to humor me.
+
+All together, we finished up at 9:50 min/mile. Nice.
 
 ## Thursday (~~8 mile tempo~~ Sleep)
 
@@ -46,15 +52,15 @@ Guess what happened the night before?
 
 Conference Matt. Conference Matt happened.
 
-Really, it wasn't a lot of boozing, but way too much talking. Didn't get back up to the room until 12:30 or so, and wasn't really asleep until 1. When I woke, there was just no way. Could I have done it? Maybe, I wasn't hung over. But running after drinking with no sleep didn't sound very smart. I know, I can juggle it again - we'll run Friday evening when I get home. That still gives me Saturday for an easy run, with my long on Sunday. YAY.
+Really, it wasn't a lot of boozing, but way too much talking. I didn't get back up to the room until 12:30 or so, and wasn't really asleep until 1. When I woke, there was just no way I was getting out there. Could I have done it? Maybe, I wasn't hung over. But running after drinking with no sleep didn't sound very smart. Rationalizing it to myself, I thought, "I know, I can juggle it again - we'll run Friday evening when I get home. That still gives me Saturday for an easy run, with my long on Sunday. YAY."
 
-This was not the best of plans.
+As it turns out, this was not the best of plans.
 
 ## Friday (~~8 mile tempo~~ 6 mile tempo)
 
-Plane trip back was uneventful. I don't like running in the evenings, but damnit, I was going to get all my runs in this week.
+My flight was early in the morning, so there was no chance of getting in the run early. The plane trip back was uneventful, getting me back to good old HSV early in the afternoon. I don't like running in the evenings, but damnit, I was going to get all my runs in this week.
 
-Talked to Katie.
+Got home; talked to Katie.
 
 "You know it's going to rain all weekend, right? I don't see you doing 15 miles on a treadmill on Sunday."
 
@@ -62,21 +68,27 @@ Talked to Katie.
 
 Stupid hurricane Nate.
 
-If I moved the 15 mile run to Saturday morning, I should't do my tempo run. Or else I should cancel my long run. I didn't like either of those options, so I went with a compromise:
+If I moved the 15 mile run to Saturday morning, I should't do my tempo run; no back-to-back substance runs. Or else I could cancel my long run. I didn't like either of those options, so I went with a compromise:
+
 1. Drop the 8 mile tempo to a 6 mile tempo. Still a substance run, but slightly easier.
+
 2. Do the 15 miles tomorrow, but don't set a 9:20 min/mile pace. Instead, do 5 at slow pace, 5 at long pace, and finish it up with 5 at slow pace.
 
-Went and did the tempo run, did not enjoy it. How the F do people run in the evening? I had lunch people, and now it wanted to come back out. Maybe those burger sliders with chili weren't a great idea. Got it done with a solid ~8:32 min/mile pace for the speed work though. No pain.
+And so I went and did the tempo run and did not enjoy it. How do people run in the evening? All during the run my lunch wanted to come out and regale me with tales of my intestinal tract. Maybe those burger sliders with chili weren't a great idea. Somehow, I got it done with a solid ~8:32 min/mile pace. No pain in the knees at least.
+
+Saturday was going to be fun.
 
 ## Saturday (15 mile long)
 
 WHoooooooooooooooooooo boy.
 
-Drove down to Whitesburg Elementary, started out in the dark. Going to do the loop of transcendence.
+Getting up before the crack of dawn, I drove down to Whitesburg Elementary to start the loop of transcendence. Bailey Cove. 5 miles or so of flat, straight-to-only-slightly-curved road, before you loop and head up the interminable Chaney Thompson for more of the same.
 
-Even without the Garmin warning me, I quickly got up to long distance pace. What the hell, it isn't hurting. Kept it at that pace for the whole 15. Never had to stretch out the legs, which I had to do previously to keep the knee from hurting.
+Y.A.Y.
 
-As an aside, pretty sure knee pain for me is from weak quads.
+Even without the Garmin warning me, I quickly got up to long distance pace. "What the hell," I thought, "it isn't hurting." I kept it at that pace for the whole 15. Unlike previous long runs, I never had to stretch out the legs to keep the knee from hurting.
+
+Training seems to be working. I'm pretty sure my knee pain was from weak quads, and the Hanson plan appears to be fixing that.
 
 Finished well on it, 9:25 min/mile.
 
