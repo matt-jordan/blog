@@ -7,19 +7,30 @@ date: 2017-09-19 20:10:11
 
 | Distance | Race | Year | Time |
 | -------- | ---- | ---- | ---- |
-| 5k | Liz Hurley 5k | 2011 | 21:24 |
+| 5k | Paper Chase 5k | 2018 | 6:45 |
 | 10k | Monte Sano 10k | 2011 | 51:39 |
-| 15k | Monte Sano 15k | 2010 | 1:27:40 |
+| 15k (Street) | Monte Sano 15k | 2010 | 1:27:40 |
+| 15k (Trails) | XTERRA Alabama Monte Sano 15k | 2018 | 1:29:13 |
+| 10mi | Rocket Run Ten Miler | 2018 | 1:13:39 |
 | Half Marathon | Huntsville Half Marathon | 2011 | 1:43:20 |
 | 25k (Trails) | McKay Hollow Madness | 2016 | 3:43:22 |
 | Marathon | Rocket City Marathon | 2017 | 3:36:09 |
+
+# Awards
+
+* 2018 Rocket Run Ten Miler: 2nd place 35-39 (15th overall)
+
+* 2018 Paper Chase 5k: 1st place men (2nd overall)
 
 # Race Results
 
 | Race | Distance (miles) | Year | Age | Place | Age Group Place | Time | Pace |
 | ---- | -------- | ---- | --- | ----- | --------------- | ---- | ---- |
+| Rocket Run Ten Miler | 10 | 2018 | 36 | 15 | 2/4 | 1:13:39 | 7:22 |
+| Paper Chase 5k | 3.1 | 2018 | 36 | 2 | 1/5 | 20:58 | 6:45 |
+| XTERRA Alabama Monte Sano 15k Trail Run | 9.3 | 2018 | 19 | 4/21 | 1:29:13.8 | 9:36 |
 | Rocket City Marathon | 26.2 | 2017 | 36 | 180 | 25/79 | 3:36:09 | 8:15 |
-| McKay Hollow Madness 25k | 15.53 | 2016 | 34 | 116 | - | 3:43:22 | 14:18
+| McKay Hollow Madness 25k | 15.53 | 2016 | 34 | 116 | - | 3:43:22 | 14:18 |
 | Huntsville Half Marathon | 13.1 | 2015 | 33 | 87 | 9/23 | 1:45:00 | 8:01 |
 | Monte Sano 10k | 6.2 | 2015 | 33 | 87 | 9/23 | 52:59 | 8:32 |
 | Rocket City Marathon | 26.2 | 2011 | 30 | 533 | 49/82 | 4:09:27 | 9:32 |
