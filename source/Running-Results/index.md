@@ -7,7 +7,7 @@ date: 2017-09-19 20:10:11
 
 | Distance | Race | Year | Time |
 | -------- | ---- | ---- | ---- |
-| 5k | Paper Chase 5k | 2018 | 6:45 |
+| 5k | Paper Chase 5k | 2018 | 20:58 |
 | 10k | Monte Sano 10k | 2011 | 51:39 |
 | 15k (Street) | Monte Sano 15k | 2010 | 1:27:40 |
 | 15k (Trails) | XTERRA Monte Sano 15k | 2018 | 1:29:13 |
