@@ -7,16 +7,18 @@ date: 2017-09-19 20:10:11
 
 | Distance | Race | Year | Time |
 | -------- | ---- | ---- | ---- |
-| 5k | Paper Chase 5k | 2018 | 20:58 |
+| 5k | Cookie Dash 5k | 2018 | 19:32 |
 | 10k | Monte Sano 10k | 2011 | 51:39 |
 | 15k (Street) | Monte Sano 15k | 2010 | 1:27:40 |
 | 15k (Trails) | XTERRA Monte Sano 15k | 2018 | 1:29:13 |
 | 10mi | Rocket Run Ten Miler | 2018 | 1:13:39 |
 | Half Marathon | Huntsville Half Marathon | 2011 | 1:43:20 |
-| 25k (Trails) | McKay Hollow Madness | 2016 | 3:43:22 |
+| 25k (Trails) | McKay Hollow Madness | 2018 | 3:00:10 |
 | Marathon | Rocket City Marathon | 2017 | 3:36:09 |
 
 # Awards
+
+* 2018 Cookie Dash 5k: 1st place 35-39 (9th overall)
 
 * 2018 Rocket Run Ten Miler: 2nd place 35-39 (15th overall)
 
@@ -26,6 +28,8 @@ date: 2017-09-19 20:10:11
 
 | Race | Distance (miles) | Year | Age | Place | Age Group Place | Time | Pace |
 | ---- | -------- | ---- | --- | ----- | --------------- | ---- | ---- |
+| Cookie Dash 5k | 3.1 | 2018 | 36 | 9 | 1/28 | 19:32 | 6:18 |
+| McKay Hollow Madness 25k | 15.53 | 2018 | 36 | 30 | - | 3:00:10 | 11:35 |
 | Rocket Run Ten Miler | 10 | 2018 | 36 | 15 | 2/4 | 1:13:39 | 7:22 |
 | Paper Chase 5k | 3.1 | 2018 | 36 | 2 | 1/5 | 20:58 | 6:45 |
 | XTERRA Monte Sano 15k Trail Run | 9.3 | 2018 | 36 | 19 | 4/21 | 1:29:13.8 | 9:36 |
