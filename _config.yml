@@ -43,6 +43,13 @@ highlight:
   auto_detect: false
   tab_replace:
 
+# hexo-generator-feed
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  content: true
+
 # Category & Tag
 default_category: uncategorized
 category_map:
