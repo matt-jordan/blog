@@ -5,7 +5,8 @@ date: 2018-05-06 14:12:58
 
 A race bucket list, in no particular order.
 
-|| Race || Location || Distance || Accomplished Date ||
+| Race | Location | Distance | Accomplished Date |
+| ---- | -------- | -------- | ----------------- |
 | ~~Cotton Row 10k~~ | Huntsville, AL | 10k | 2009-05-25 |
 | ~~McKay Hollow Madness~~ | Huntsville, AL | 25k | 2016-03-26 |
 | ~~Rocket City Marathon~~ | Huntsville, AL | 26.2mi | 2011-12-10 |
