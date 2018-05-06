@@ -18,7 +18,7 @@ Last day of speed work. YAY!
 
 It was hot and humid. Gross, really. 73 degrees when I started, but it felt like a wet sponge. I didn't need this. On lap two, I started to feel like :poop:. I've had heat exhaustion a couple of times, and I was getting killed out there. No water either, which was probably a little stupid. I realized that if I wanted to finish this thing, I wasn't going to do it by simply gutting it through.
 
-I took my shirt off (gasp), sat down, and rested for a few minutes. Just getting my shirt off made a huge difference. That's weird. Commentary on gender.
+I took my shirt off, sat down, and rested for a few minutes. Just getting my shirt off made a huge difference, and I cooled off relatively quickly. After a minute or two I felt like I could finish the workout, albeit rocking out my awesome programmer-bod.
 
 Ran the next two iterations without a shirt on, and felt 1000% better. Ended up walking the recovery laps instead of running them at 11:00 min/mile, but being able to finish the last two speed intervals at full blast made me feel good. Or at least, better, since I didn't want to puke any more.
 
